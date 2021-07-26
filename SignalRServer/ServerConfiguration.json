@@ -1,0 +1,6 @@
+{
+  "Server": {
+    "ConncetionURL": "http://127.0.0.1:8088/",
+    "LogPath":"c:\\Logs\\Server\\"
+  }
+}
